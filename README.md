@@ -1,2 +1,2 @@
 # my_info
-code of css
+code of html
